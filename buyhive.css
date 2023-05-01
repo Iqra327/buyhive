@@ -1,0 +1,38 @@
+body{
+    font-family: sans-serif;
+}
+.USA-Flag{
+width:25px;
+}
+.bg-image{
+    background: url(images-buyhive/search\ bar\ img.png);
+}
+.card-lead:hover{
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+    transition: 0.24s;
+}
+.card-lead:hover button{
+    display:block;
+}
+.btn-add-to-cart{
+    padding-left:75px;
+    padding-right:75px;
+    display:none;
+}
+.back-forward-sign:hover{
+    cursor: pointer;
+}
+.footer-list,.footer-list li a{
+    list-style-type: none !important;
+    text-decoration: none !important;
+    font-size: 17px;
+}
+.bg-visa-card{
+    background: url(images-buyhive/download\ \(6\).png);
+    padding: 14px;
+
+}
+.view-img{
+   width:30px;
+   height:20px;
+}
